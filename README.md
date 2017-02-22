@@ -1,2 +1,2 @@
 # CS61C
-learn cs61c
+self learn cs61c
